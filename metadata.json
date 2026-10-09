@@ -1,0 +1,8 @@
+{
+  "name": "テストハブ (Test Hub)",
+  "description": "リアルタイム動作確認・UIコンポーネント検証・インタラクティブテストができるサンドボックス環境",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
